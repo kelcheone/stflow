@@ -31,13 +31,14 @@ Title, Votes, Answers, Views, Views per day, Link
 "Explain Type Assertions in Go", 53, 3, 23000, 9, https://stackoverflow.com/questions/38816843/explain-type-assertions-in-go 
 "How to initialize a nested struct?", 191, 9, 212000, 68, https://stackoverflow.com/questions/24809235/how-to-initialize-a-nested-struct 
 "What does go build build? (go build vs. go install)", 157, 2, 108000, 38, https://stackoverflow.com/questions/30612611/what-does-go-build-build-go-build-vs-go-install 
+"What's the best way to bundle static resources in a Go program?", 133, 5, 53000, 14, https://stackoverflow.com/questions/13904441/whats-the-best-way-to-bundle-static-resources-in-a-go-program 
 "How can I access a struct field with generics (type T has no field or method)?", 9, 1, 4000, 10, https://stackoverflow.com/questions/70358216/how-can-i-access-a-struct-field-with-generics-type-t-has-no-field-or-method 
 "Decoding generic JSON objects to one of many formats", 5, 1, 7000, 2, https://stackoverflow.com/questions/28033277/decoding-generic-json-objects-to-one-of-many-formats 
-"What's the best way to bundle static resources in a Go program?", 133, 5, 53000, 14, https://stackoverflow.com/questions/13904441/whats-the-best-way-to-bundle-static-resources-in-a-go-program 
 "Cannot convert []string to []interface {}", 114, 7, 65000, 17, https://stackoverflow.com/questions/12990338/cannot-convert-string-to-interface 
 "Unmarshal JSON with some known, and some unknown field names", 105, 8, 84000, 32, https://stackoverflow.com/questions/33436730/unmarshal-json-with-some-known-and-some-unknown-field-names 
-"Return map like 'ok' in Golang on normal functions", 35, 2, 16000, 5, https://stackoverflow.com/questions/28487036/return-map-like-ok-in-golang-on-normal-functions 
 "Golang Round to Nearest 0.05", 35, 1, 38000, 16, https://stackoverflow.com/questions/39544571/golang-round-to-nearest-0-05 
+"Return map like 'ok' in Golang on normal functions", 35, 2, 16000, 5, https://stackoverflow.com/questions/28487036/return-map-like-ok-in-golang-on-normal-functions 
+"How to iterate maps in insertion order?", 22, 2, 19000, 6, https://stackoverflow.com/questions/28930416/how-to-iterate-maps-in-insertion-order 
 "how to reference a relative file from code and tests", 19, 3, 7000, 2, https://stackoverflow.com/questions/31059023/how-to-reference-a-relative-file-from-code-and-tests 
 "It takes too much time when using "template" package to generate a dynamic web page to client in Golang", 8, 1, 3000, 1, https://stackoverflow.com/questions/28451675/it-takes-too-much-time-when-using-template-package-to-generate-a-dynamic-web-p 
 "What is an idiomatic way of representing enums in Go?", 728, 14, 488000, 134, https://stackoverflow.com/questions/14426366/what-is-an-idiomatic-way-of-representing-enums-in-go 
@@ -46,15 +47,15 @@ Title, Votes, Answers, Views, Views per day, Link
 "How to dump goroutine stacktraces?", 130, 10, 126000, 37, https://stackoverflow.com/questions/19094099/how-to-dump-goroutine-stacktraces 
 "is there a way to create an instance of a struct from a string?", 69, 3, 41000, 12, https://stackoverflow.com/questions/23030884/is-there-a-way-to-create-an-instance-of-a-struct-from-a-string 
 "json.Unmarshal returning blank structure", 26, 1, 18000, 6, https://stackoverflow.com/questions/28228393/json-unmarshal-returning-blank-structure 
-"How to iterate maps in insertion order?", 22, 2, 19000, 6, https://stackoverflow.com/questions/28930416/how-to-iterate-maps-in-insertion-order 
 "Is it safe to read a function pointer concurrently without a lock?", 12, 3, 4000, 1, https://stackoverflow.com/questions/41406501/is-it-safe-to-read-a-function-pointer-concurrently-without-a-lock 
 "What should be the values of GOPATH and GOROOT?", 427, 25, 535000, 131, https://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot 
 "How to use custom packages", 200, 9, 190000, 52, https://stackoverflow.com/questions/15049903/how-to-use-custom-packages 
 "Initialize nested struct definition", 66, 3, 58000, 19, https://stackoverflow.com/questions/26866879/initialize-nested-struct-definition 
 "Relative imports in Go", 61, 6, 84000, 35, https://stackoverflow.com/questions/38517593/relative-imports-in-go 
-"My structures are not marshalling into json [duplicate]", 17, 3, 2000, 0, https://stackoverflow.com/questions/15452004/my-structures-are-not-marshalling-into-json 
 "How can I convert string to integer in golang", 17, 8, 47000, 17, https://stackoverflow.com/questions/31487694/how-can-i-convert-string-to-integer-in-golang 
+"My structures are not marshalling into json [duplicate]", 17, 3, 2000, 0, https://stackoverflow.com/questions/15452004/my-structures-are-not-marshalling-into-json 
 "Cannot free memory once occupied by bytes.Buffer", 11, 2, 18000, 7, https://stackoverflow.com/questions/37382600/cannot-free-memory-once-occupied-by-bytes-buffer 
+"Taking a JSON string, unmarshaling it into a map[string]interface{}, editing, and marshaling it into a []byte seems more complicated than it should be", 10, 3, 6000, 2, https://stackoverflow.com/questions/28877512/taking-a-json-string-unmarshaling-it-into-a-mapstringinterface-editing-an 
 "Does Go compiler's evaluation differ for constant expression and other expression", 7, 1, 1000, 0, https://stackoverflow.com/questions/39444852/does-go-compilers-evaluation-differ-for-constant-expression-and-other-expressio 
 "How to check if a map contains a key in Go?", 1257, 11, 1200000, 253, https://stackoverflow.com/questions/2050391/how-to-check-if-a-map-contains-a-key-in-go 
 "How to convert an int value to string in Go?", 717, 10, 622000, 158, https://stackoverflow.com/questions/10105935/how-to-convert-an-int-value-to-string-in-go 
@@ -64,14 +65,12 @@ Title, Votes, Answers, Views, Views per day, Link
 "Why do I get a "cannot assign" error when setting value to a struct as a value in a map? [duplicate]", 119, 2, 82000, 30, https://stackoverflow.com/questions/32751537/why-do-i-get-a-cannot-assign-error-when-setting-value-to-a-struct-as-a-value-i 
 "Why do I need to use http.StripPrefix to access my static files?", 50, 4, 26000, 8, https://stackoverflow.com/questions/27945310/why-do-i-need-to-use-http-stripprefix-to-access-my-static-files 
 "(un)marshalling json golang not working", 31, 3, 23000, 7, https://stackoverflow.com/questions/25595096/unmarshalling-json-golang-not-working 
-"Taking a JSON string, unmarshaling it into a map[string]interface{}, editing, and marshaling it into a []byte seems more complicated than it should be", 10, 3, 6000, 2, https://stackoverflow.com/questions/28877512/taking-a-json-string-unmarshaling-it-into-a-mapstringinterface-editing-an 
 "How to efficiently concatenate strings in go", 928, 19, 621000, 129, https://stackoverflow.com/questions/1760757/how-to-efficiently-concatenate-strings-in-go 
 "Declare a constant array", 243, 5, 250000, 67, https://stackoverflow.com/questions/13137463/declare-a-constant-array 
 "Mock functions in Go", 185, 8, 162000, 47, https://stackoverflow.com/questions/19167970/mock-functions-in-go 
 ""<type> is pointer to interface, not interface" confusion", 184, 2, 97000, 47, https://stackoverflow.com/questions/44370277/type-is-pointer-to-interface-not-interface-confusion 
 "Is this casting in golang?", 129, 1, 89000, 32, https://stackoverflow.com/questions/31379404/is-this-casting-in-golang 
 "Using Pointers in a for loop", 45, 2, 21000, 11, https://stackoverflow.com/questions/48826460/using-pointers-in-a-for-loop 
-"Method Sets (Pointer vs Value Receiver)", 26, 3, 8000, 3, https://stackoverflow.com/questions/33587227/method-sets-pointer-vs-value-receiver 
 "How does a non initialized channel behave?", 8, 2, 4000, 1, https://stackoverflow.com/questions/39015602/how-does-a-non-initialized-channel-behave 
 "How can I store reference to the result of an operation in Go?", 7, 3, 2000, 0, https://stackoverflow.com/questions/34197248/how-can-i-store-reference-to-the-result-of-an-operation-in-go 
 "Go embedded struct call child method instead parent method", 5, 1, 2000, 0, https://stackoverflow.com/questions/29390736/go-embedded-struct-call-child-method-instead-parent-method 
@@ -86,12 +85,12 @@ Title, Votes, Answers, Views, Views per day, Link
 "How to format current time using a yyyyMMddHHmmss format?", 204, 6, 210000, 63, https://stackoverflow.com/questions/20234104/how-to-format-current-time-using-a-yyyymmddhhmmss-format 
 "How to get JSON response from http.Get", 190, 5, 295000, 84, https://stackoverflow.com/questions/17156371/how-to-get-json-response-from-http-get 
 "Why can't I assign a *Struct to an *Interface?", 162, 4, 74000, 20, https://stackoverflow.com/questions/13511203/why-cant-i-assign-a-struct-to-an-interface 
-"How to break a long line of code in Golang?", 146, 5, 90000, 35, https://stackoverflow.com/questions/34846848/how-to-break-a-long-line-of-code-in-golang 
 "Access struct property by name", 98, 4, 122000, 35, https://stackoverflow.com/questions/18930910/access-struct-property-by-name 
 "Golang append an item to a slice", 89, 14, 167000, 50, https://stackoverflow.com/questions/20195296/golang-append-an-item-to-a-slice 
 "Parsing date/time strings which are not 'standard' formats", 78, 4, 54000, 14, https://stackoverflow.com/questions/14106541/parsing-date-time-strings-which-are-not-standard-formats 
 "Cyclic dependencies and interfaces", 42, 3, 27000, 8, https://stackoverflow.com/questions/20380333/cyclic-dependencies-and-interfaces 
 "How to broadcast message using channel", 41, 6, 44000, 17, https://stackoverflow.com/questions/36417199/how-to-broadcast-message-using-channel 
+"Method Sets (Pointer vs Value Receiver)", 26, 3, 8000, 3, https://stackoverflow.com/questions/33587227/method-sets-pointer-vs-value-receiver 
 "Close multiple goroutine if an error occurs in one in go", 24, 3, 18000, 9, https://stackoverflow.com/questions/45500836/close-multiple-goroutine-if-an-error-occurs-in-one-in-go 
 "How to return a value in a Go function that panics?", 22, 3, 9000, 3, https://stackoverflow.com/questions/33167282/how-to-return-a-value-in-a-go-function-that-panics 
 "How to use a field of struct or variable value as template name?", 13, 1, 4000, 1, https://stackoverflow.com/questions/28830543/how-to-use-a-field-of-struct-or-variable-value-as-template-name 
@@ -104,9 +103,12 @@ Title, Votes, Answers, Views, Views per day, Link
 "Exec a shell command in Go", 115, 8, 170000, 40, https://stackoverflow.com/questions/6182369/exec-a-shell-command-in-go 
 "Negative look-ahead in Go regular expressions", 47, 3, 39000, 13, https://stackoverflow.com/questions/26771592/negative-look-ahead-in-go-regular-expressions 
 "How to get memory size of variable in Go?", 24, 3, 28000, 13, https://stackoverflow.com/questions/44257522/how-to-get-memory-size-of-variable-in-go 
+"Custom type passed to function as a parameter", 14, 2, 2000, 0, https://stackoverflow.com/questions/41501596/custom-type-passed-to-function-as-a-parameter 
+"How to parse a complicated JSON with Go unmarshal?", 13, 3, 20000, 7, https://stackoverflow.com/questions/30341588/how-to-parse-a-complicated-json-with-go-unmarshal 
 "What are some examples of Go interfaces?", 7, 6, 2000, 0, https://stackoverflow.com/questions/1734673/what-are-some-examples-of-go-interfaces 
 "How do I SET the GOPATH environment variable on Ubuntu? What file must I edit?", 349, 28, 642000, 195, https://stackoverflow.com/questions/21001387/how-do-i-set-the-gopath-environment-variable-on-ubuntu-what-file-must-i-edit 
 "How to read/write from/to a file using Go", 345, 10, 317000, 66, https://stackoverflow.com/questions/1821811/how-to-read-write-from-to-a-file-using-go 
+"How to break a long line of code in Golang?", 146, 5, 90000, 35, https://stackoverflow.com/questions/34846848/how-to-break-a-long-line-of-code-in-golang 
 "Multiple goroutines listening on one channel", 115, 6, 99000, 27, https://stackoverflow.com/questions/15715605/multiple-goroutines-listening-on-one-channel 
 "How to fix parsing go.mod module declares its path as "x" but was required as "y"", 75, 14, 63000, 63, https://stackoverflow.com/questions/61311436/how-to-fix-parsing-go-mod-module-declares-its-path-as-x-but-was-required-as-y 
 "How to set and get fields in struct's method", 67, 3, 107000, 28, https://stackoverflow.com/questions/11810218/how-to-set-and-get-fields-in-structs-method 
@@ -128,8 +130,8 @@ Title, Votes, Answers, Views, Views per day, Link
 "range over interface{} which stores a slice", 135, 5, 113000, 30, https://stackoverflow.com/questions/14025833/range-over-interface-which-stores-a-slice 
 "How can I pass a slice as a variadic input?", 123, 3, 65000, 20, https://stackoverflow.com/questions/23723955/how-can-i-pass-a-slice-as-a-variadic-input 
 "How to stop http.ListenAndServe()", 122, 10, 107000, 46, https://stackoverflow.com/questions/39320025/how-to-stop-http-listenandserve 
-"Go-compiled binary won't run in an alpine docker container on Ubuntu host", 101, 6, 53000, 21, https://stackoverflow.com/questions/36279253/go-compiled-binary-wont-run-in-an-alpine-docker-container-on-ubuntu-host 
 "POST data using the Content-Type multipart/form-data", 101, 7, 146000, 43, https://stackoverflow.com/questions/20205796/post-data-using-the-content-type-multipart-form-data 
+"Go-compiled binary won't run in an alpine docker container on Ubuntu host", 101, 6, 53000, 21, https://stackoverflow.com/questions/36279253/go-compiled-binary-wont-run-in-an-alpine-docker-container-on-ubuntu-host 
 "What is the meaning of "dot parenthesis" syntax? [duplicate]", 95, 1, 18000, 5, https://stackoverflow.com/questions/24492868/what-is-the-meaning-of-dot-parenthesis-syntax 
 "is it possible to call overridden method from parent struct in Golang?", 76, 6, 62000, 18, https://stackoverflow.com/questions/21251242/is-it-possible-to-call-overridden-method-from-parent-struct-in-golang 
 "Conversion of time.Duration type microseconds value to milliseconds", 72, 3, 152000, 69, https://stackoverflow.com/questions/41503758/conversion-of-time-duration-type-microseconds-value-to-milliseconds 
@@ -137,6 +139,7 @@ Title, Votes, Answers, Views, Views per day, Link
 "Go template name", 40, 3, 9000, 4, https://stackoverflow.com/questions/41176355/go-template-name 
 "Golang Dependency Management Best Practice", 40, 4, 16000, 5, https://stackoverflow.com/questions/30300279/golang-dependency-management-best-practice 
 "Can I create shared test utilities?", 38, 2, 17000, 6, https://stackoverflow.com/questions/31794141/can-i-create-shared-test-utilities 
+"How to update map values in Go", 35, 3, 51000, 24, https://stackoverflow.com/questions/42716852/how-to-update-map-values-in-go 
 "How to access unexported struct fields", 27, 4, 25000, 11, https://stackoverflow.com/questions/42664837/how-to-access-unexported-struct-fields 
 "Assign struct with another struct", 26, 4, 42000, 15, https://stackoverflow.com/questions/31981592/assign-struct-with-another-struct 
 "Fill os.Stdin for function that reads from it", 17, 4, 7000, 3, https://stackoverflow.com/questions/46365221/fill-os-stdin-for-function-that-reads-from-it 
@@ -146,6 +149,3 @@ Title, Votes, Answers, Views, Views per day, Link
 "Why struct fields are showing empty?", 4, 1, 387, 0, https://stackoverflow.com/questions/32674913/why-struct-fields-are-showing-empty 
 "Is it possible to partially decode and update JSON? (go)", 3, 2, 3000, 1, https://stackoverflow.com/questions/29111777/is-it-possible-to-partially-decode-and-update-json-go 
 "Can I construct a slice of a generic type with different type parameters?", 3, 2, 4000, 12, https://stackoverflow.com/questions/71247543/can-i-construct-a-slice-of-a-generic-type-with-different-type-parameters 
-"Splitting client/server code", 1, 1, 2000, 0, https://stackoverflow.com/questions/38875016/splitting-client-server-code 
-"What is the idiomatic Go equivalent of C's ternary operator?", 519, 14, 380000, 113, https://stackoverflow.com/questions/19979178/what-is-the-idiomatic-go-equivalent-of-cs-ternary-operator 
-"Convert string to integer type in Go?", 400, 5, 466000, 105, https://stackoverflow.com/questions/4278430/convert-string-to-integer-type-in-go 
