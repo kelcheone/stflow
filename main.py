@@ -64,7 +64,6 @@ class Scrape:
                 days = (now - date) / 86400
                 # calculate views per day
                 views_per_day = math.floor(views / days)
-                print(views_per_day)
 
                 data.append(
                     [title, votes, answers, views, views_per_day, link])
@@ -117,11 +116,11 @@ def scrape_all_tags():
 
 
 def main():
-    starttime = time.time()
     tag = input("Enter tag: ")
+    starttime = time.time()
     scraper = Scrape(tag)
     scraper.scrape()
-    print(f"Time taken: {time.time() - starttime}")
+    print(f"Time taken Python: {time.time() - starttime}")
 
 
 if __name__ == "__main__":

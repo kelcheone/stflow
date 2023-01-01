@@ -1,5 +1,5 @@
 Title, Votes, Answers, Views, Views per day, Link 
-"Type converting slices of interfaces", 286, 9, 153000, 40, https://stackoverflow.com/questions/12753805/type-converting-slices-of-interfaces 
+"Type converting slices of interfaces", 287, 9, 154000, 41, https://stackoverflow.com/questions/12753805/type-converting-slices-of-interfaces 
 "What are the use(s) for struct tags in Go?", 566, 3, 146000, 37, https://stackoverflow.com/questions/10858787/what-are-the-uses-for-struct-tags-in-go 
 "Pointers vs. values in parameters and return values", 486, 5, 128000, 40, https://stackoverflow.com/questions/23542989/pointers-vs-values-in-parameters-and-return-values 
 "json.Marshal(struct) returns "{}"", 171, 3, 48000, 15, https://stackoverflow.com/questions/26327391/json-marshalstruct-returns 
@@ -36,8 +36,8 @@ Title, Votes, Answers, Views, Views per day, Link
 "Decoding generic JSON objects to one of many formats", 5, 1, 7000, 2, https://stackoverflow.com/questions/28033277/decoding-generic-json-objects-to-one-of-many-formats 
 "Cannot convert []string to []interface {}", 114, 7, 65000, 17, https://stackoverflow.com/questions/12990338/cannot-convert-string-to-interface 
 "Unmarshal JSON with some known, and some unknown field names", 105, 8, 84000, 32, https://stackoverflow.com/questions/33436730/unmarshal-json-with-some-known-and-some-unknown-field-names 
-"Golang Round to Nearest 0.05", 35, 1, 38000, 16, https://stackoverflow.com/questions/39544571/golang-round-to-nearest-0-05 
 "Return map like 'ok' in Golang on normal functions", 35, 2, 16000, 5, https://stackoverflow.com/questions/28487036/return-map-like-ok-in-golang-on-normal-functions 
+"Golang Round to Nearest 0.05", 35, 1, 38000, 16, https://stackoverflow.com/questions/39544571/golang-round-to-nearest-0-05 
 "How to iterate maps in insertion order?", 22, 2, 19000, 6, https://stackoverflow.com/questions/28930416/how-to-iterate-maps-in-insertion-order 
 "how to reference a relative file from code and tests", 19, 3, 7000, 2, https://stackoverflow.com/questions/31059023/how-to-reference-a-relative-file-from-code-and-tests 
 "It takes too much time when using "template" package to generate a dynamic web page to client in Golang", 8, 1, 3000, 1, https://stackoverflow.com/questions/28451675/it-takes-too-much-time-when-using-template-package-to-generate-a-dynamic-web-p 
@@ -52,20 +52,20 @@ Title, Votes, Answers, Views, Views per day, Link
 "How to use custom packages", 200, 9, 190000, 52, https://stackoverflow.com/questions/15049903/how-to-use-custom-packages 
 "Initialize nested struct definition", 66, 3, 58000, 19, https://stackoverflow.com/questions/26866879/initialize-nested-struct-definition 
 "Relative imports in Go", 61, 6, 84000, 35, https://stackoverflow.com/questions/38517593/relative-imports-in-go 
-"How can I convert string to integer in golang", 17, 8, 47000, 17, https://stackoverflow.com/questions/31487694/how-can-i-convert-string-to-integer-in-golang 
 "My structures are not marshalling into json [duplicate]", 17, 3, 2000, 0, https://stackoverflow.com/questions/15452004/my-structures-are-not-marshalling-into-json 
+"How can I convert string to integer in golang", 17, 8, 47000, 17, https://stackoverflow.com/questions/31487694/how-can-i-convert-string-to-integer-in-golang 
 "Cannot free memory once occupied by bytes.Buffer", 11, 2, 18000, 7, https://stackoverflow.com/questions/37382600/cannot-free-memory-once-occupied-by-bytes-buffer 
 "Taking a JSON string, unmarshaling it into a map[string]interface{}, editing, and marshaling it into a []byte seems more complicated than it should be", 10, 3, 6000, 2, https://stackoverflow.com/questions/28877512/taking-a-json-string-unmarshaling-it-into-a-mapstringinterface-editing-an 
 "Does Go compiler's evaluation differ for constant expression and other expression", 7, 1, 1000, 0, https://stackoverflow.com/questions/39444852/does-go-compilers-evaluation-differ-for-constant-expression-and-other-expressio 
 "How to check if a map contains a key in Go?", 1257, 11, 1200000, 253, https://stackoverflow.com/questions/2050391/how-to-check-if-a-map-contains-a-key-in-go 
 "How to convert an int value to string in Go?", 717, 10, 622000, 158, https://stackoverflow.com/questions/10105935/how-to-convert-an-int-value-to-string-in-go 
-"How to generate a random string of a fixed length in Go?", 444, 18, 344000, 107, https://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-go 
+"How to generate a random string of a fixed length in Go?", 444, 18, 345000, 108, https://stackoverflow.com/questions/22892120/how-to-generate-a-random-string-of-a-fixed-length-in-go 
 "Converting Go struct to JSON", 286, 5, 396000, 97, https://stackoverflow.com/questions/8270816/converting-go-struct-to-json 
 "Call Go functions from C", 159, 4, 53000, 12, https://stackoverflow.com/questions/6125683/call-go-functions-from-c 
 "Why do I get a "cannot assign" error when setting value to a struct as a value in a map? [duplicate]", 119, 2, 82000, 30, https://stackoverflow.com/questions/32751537/why-do-i-get-a-cannot-assign-error-when-setting-value-to-a-struct-as-a-value-i 
 "Why do I need to use http.StripPrefix to access my static files?", 50, 4, 26000, 8, https://stackoverflow.com/questions/27945310/why-do-i-need-to-use-http-stripprefix-to-access-my-static-files 
 "(un)marshalling json golang not working", 31, 3, 23000, 7, https://stackoverflow.com/questions/25595096/unmarshalling-json-golang-not-working 
-"How to efficiently concatenate strings in go", 928, 19, 621000, 129, https://stackoverflow.com/questions/1760757/how-to-efficiently-concatenate-strings-in-go 
+"How to efficiently concatenate strings in go", 928, 19, 622000, 129, https://stackoverflow.com/questions/1760757/how-to-efficiently-concatenate-strings-in-go 
 "Declare a constant array", 243, 5, 250000, 67, https://stackoverflow.com/questions/13137463/declare-a-constant-array 
 "Mock functions in Go", 185, 8, 162000, 47, https://stackoverflow.com/questions/19167970/mock-functions-in-go 
 ""<type> is pointer to interface, not interface" confusion", 184, 2, 97000, 47, https://stackoverflow.com/questions/44370277/type-is-pointer-to-interface-not-interface-confusion 
