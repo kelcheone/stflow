@@ -106,15 +106,6 @@ class Scrape:
             pass
 
 
-def scrape_all_tags():
-    tags = ["python", "javascript", "java", "c#", "php", "c++", "c", "r", "go", "swift", "kotlin", "ruby", "scala", "rust", "typescript", "dart", "assembly", "bash", "perl", "objective-c", "lua", "haskell", "erlang", "elixir", "clojure", "coffeescript", "f#", "groovy", "julia", "matlab",
-            "pascal", "delphi", "powershell", "racket", "scheme", "visual-basic", "fortran", "prolog", "ada", "apl", "awk", "brainfuck", "cobol", "d", "eiffel", "forth", "hack", "icon", "j", "lolcode", "nim", "nix", "ocaml", "pascal", "rebol", "sed", "smalltalk", "tcl", "verilog", "vhdl", "zsh"]
-    for tag in tags:
-        print(tag)
-        scraper = Scrape(tag)
-        scraper.scrape()
-
-
 def main():
     tag = input("Enter tag: ")
     starttime = time.time()
