@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Run main.go file
-        run: go run main.go
+        run: go run .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # commit the changes to the repository
