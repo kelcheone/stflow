@@ -93,7 +93,6 @@ func get_all_pages(tag string) []dElement {
 	links := gen_links(convertToInt(body.Find(".s-pagination").Find("a").Last().Prev().Text()), tag)
 
 	println(len(links))
-	links = links[:45]
 
 	var segLinks [][]string
 	for i := 0; i < len(links); i += 15 {
