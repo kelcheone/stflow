@@ -37,8 +37,12 @@ class Scrape:
                 views = stats[2].find(
                     "span", {"class": "s-post-summary--stats-item-number"}).text
                 # get date from title attribute name
-                date = question.find(
-                    "span", {"class": "relativetime"})["title"]
+                # check if class relavetime exists if not date = 2010-12-1 00:00:00Z
+                if question.find("span", {"class": "relativetime"}) is None:
+                    date = "2010-12-1 00:00:00Z"
+                else:
+                    date = question.find(
+                        "span", {"class": "relativetime"})["title"]
                 # convert date (2014-12-16 09:00:51Z) to datetime object
                 date = datetime.datetime.strptime(date, "%Y-%m-%d %H:%M:%S%z")
                 # date to unix timestamp
@@ -78,7 +82,7 @@ class Scrape:
         pages = soup.find(
             "div", {"class": "s-pagination site1 themed pager float-left"}).find_all("a")[-2].text
         # loop through all pages
-        pages = 3
+        pages = 45
         for page in range(1, int(pages) + 1):
             # get url
             url = f'https://stackoverflow.com/questions/tagged/{self.tag}?tab=frequent&page={page}&pagesize=50'

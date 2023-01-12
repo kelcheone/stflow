@@ -67,7 +67,7 @@ func ParsePage(url string) []dElement {
 			views = strconv.Itoa(int(convertViewsToNumber(views[:len(views)-1]) * 1000000))
 		}
 
-		date := convertDateToUnix(s.Find(".relativetime").AttrOr("title", "no date"))
+		date := convertDateToUnix(s.Find(".relativetime").AttrOr("title", "2006-01-02 15:04:05Z"))
 		now := time.Now().Unix()
 		views_per_day := strconv.Itoa(convertToInt(views) / int((now-date)/86400))
 		data = append(data, dElement{
@@ -91,27 +91,50 @@ func get_all_pages(tag string) []dElement {
 	body := get(nUrl)
 
 	links := gen_links(convertToInt(body.Find(".s-pagination").Find("a").Last().Prev().Text()), tag)
-	// first 3 pages
-	links = links[:3]
 
-	dataChan := make(chan []dElement, len(links))
-	var wg sync.WaitGroup
-	wg.Add(len(links))
+	println(len(links))
+	links = links[:45]
 
-	for _, link := range links {
-		go func(link string) {
-			defer wg.Done()
+	var segLinks [][]string
+	for i := 0; i < len(links); i += 15 {
+		end := i + 15
 
-			dataChan <- ParsePage(link)
-			println(dataChan)
-		}(link)
+		if end > len(links) {
+			end = len(links)
+		}
+
+		segLinks = append(segLinks, links[i:end])
 	}
-	wg.Wait()
-	close(dataChan)
+
+	var supperChan = make(chan []dElement, len(links))
+
+	for _, v := range segLinks {
+		dataChan := make(chan []dElement, len(v))
+		var wg sync.WaitGroup
+		for _, link := range v {
+			wg.Add(1)
+			go func(link string) {
+				defer wg.Done()
+				dataChan <- ParsePage(link)
+			}(link)
+		}
+		go func() {
+			wg.Wait()
+			close(dataChan)
+		}()
+
+		for d := range dataChan {
+			supperChan <- d
+		}
+	}
+
+	close(supperChan)
+
 	var mdata []dElement
-	for n := range dataChan {
-		mdata = append(mdata, n...)
+	for d := range supperChan {
+		mdata = append(mdata, d...)
 	}
+
 	fmt.Println(len(mdata))
 	var finalArr []dElement
 	for _, v := range mdata {
@@ -121,6 +144,7 @@ func get_all_pages(tag string) []dElement {
 	}
 
 	to_csv(finalArr, tag)
+
 	return data
 
 }
