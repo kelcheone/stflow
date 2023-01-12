@@ -20,6 +20,7 @@ type dElement struct {
 	Views         string
 	Views_per_day string
 	Link          string
+	Date          string
 }
 
 func get(url string) *goquery.Document {
@@ -92,6 +93,7 @@ func ParsePage(url string) []dElement {
 			Views:         views,
 			Views_per_day: views_per_day,
 			Link:          link,
+			Date:          strconv.Itoa(int(date)),
 		})
 	})
 
@@ -108,6 +110,7 @@ func get_all_pages(tag string) []dElement {
 	links := gen_links(convertToInt(body.Find(".s-pagination").Find("a").Last().Prev().Text()), tag)
 
 	println(len(links))
+	links = links[:2]
 
 	var segLinks [][]string
 	for i := 0; i < len(links); i += 15 {
@@ -170,13 +173,13 @@ func to_csv(data []dElement, tag string) {
 		log.Fatal("Cannot create file", err)
 	}
 	defer file.Close()
-	file.WriteString("Title,Votes,Answers,Views,Views_per_day,Link \n")
+	file.WriteString("Title,Votes,Answers,Views,Views_per_day,Date,Link \n")
 
 	writer := csv.NewWriter(file)
 	defer writer.Flush()
 
 	for _, value := range data {
-		line := []string{value.Title, value.Votes, value.Answers, value.Views, value.Views_per_day, value.Link}
+		line := []string{value.Title, value.Votes, value.Answers, value.Views, value.Views_per_day, value.Date, value.Link}
 		err := writer.Write(line)
 		checkError("Cannot write to file", err)
 	}

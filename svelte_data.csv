@@ -1,0 +1,101 @@
+Title,Votes,Answers,Views,Views_per_day,Date,Link 
+limiting the number of checkbox in svelte form using disabled attribute with more than one group of options,0,1,128,0,1656542844,https://stackoverflow.com/questions/72808622/limiting-the-number-of-checkbox-in-svelte-form-using-disabled-attribute-with-mor
+Svelte 3 - How to loop each block X amount of times,56,4,27000,22,1570084872,https://stackoverflow.com/questions/58213585/svelte-3-how-to-loop-each-block-x-amount-of-times
+Import css in node_modules to svelte,37,7,22000,16,1559845750,https://stackoverflow.com/questions/56483209/import-css-in-node-modules-to-svelte
+How to route programmatically in SvelteKit?,34,4,25000,44,1625018897,https://stackoverflow.com/questions/68187584/how-to-route-programmatically-in-sveltekit
+How can I manually compile a svelte component down to the final javascript and css that sapper/svelte produces?,24,2,8000,10,1609189141,https://stackoverflow.com/questions/65484019/how-can-i-manually-compile-a-svelte-component-down-to-the-final-javascript-and-c
+How do I load an external JS library in Svelte/Sapper?,16,5,20000,18,1578405750,https://stackoverflow.com/questions/59629947/how-do-i-load-an-external-js-library-in-svelte-sapper
+How do you import a Svelte component in a Typescript file?,15,2,10000,10,1594057547,https://stackoverflow.com/questions/62761623/how-do-you-import-a-svelte-component-in-a-typescript-file
+How to import Firebase only on client in Sapper?,14,4,6000,4,1558892075,https://stackoverflow.com/questions/56315901/how-to-import-firebase-only-on-client-in-sapper
+Dynamically loading component using import or fetch,7,1,6000,4,1559582238,https://stackoverflow.com/questions/56431848/dynamically-loading-component-using-import-or-fetch
+How to persist svelte store,57,12,20000,15,1559883657,https://stackoverflow.com/questions/56488202/how-to-persist-svelte-store
+Cannot access 'variable_name' before initialization,48,1,200000,150,1558918099,https://stackoverflow.com/questions/56318460/cannot-access-variable-name-before-initialization
+How to target a component in svelte with css?,33,6,17000,13,1562846476,https://stackoverflow.com/questions/56988717/how-to-target-a-component-in-svelte-with-css
+Svelte/Sapper.js - How to initialize store with localStorage data?,20,1,7000,5,1560795267,https://stackoverflow.com/questions/56636764/svelte-sapper-js-how-to-initialize-store-with-localstorage-data
+How to do code splitting using Svelte without Sapper,18,2,9000,8,1580632239,https://stackoverflow.com/questions/60024414/how-to-do-code-splitting-using-svelte-without-sapper
+Import javascript file in svelte,17,1,20000,15,1561998181,https://stackoverflow.com/questions/56839098/import-javascript-file-in-svelte
+Call Svelte component's function from global scope,11,2,6000,4,1568626334,https://stackoverflow.com/questions/57954008/call-svelte-components-function-from-global-scope
+SvelteKit - load() not called from component but works as a Page,11,1,8000,13,1620318145,https://stackoverflow.com/questions/67422216/sveltekit-load-not-called-from-component-but-works-as-a-page
+Output Single HTML File from Svelte Project,11,4,5000,5,1588448304,https://stackoverflow.com/questions/61565251/output-single-html-file-from-svelte-project
+How to differentiate between Svelte dev mode and build mode?,10,5,5000,6,1602077731,https://stackoverflow.com/questions/64245188/how-to-differentiate-between-svelte-dev-mode-and-build-mode
+Running svelte dev on server,10,4,18000,20,1596577251,https://stackoverflow.com/questions/63255453/running-svelte-dev-on-server
+How to put a Svelte app in a docker container?,9,1,10000,9,1586366665,https://stackoverflow.com/questions/61106423/how-to-put-a-svelte-app-in-a-docker-container
+Unable to access request.body from the endpoint.js in sveltekit skeleton project,9,2,4000,11,1643995590,https://stackoverflow.com/questions/70990443/unable-to-access-request-body-from-the-endpoint-js-in-sveltekit-skeleton-project
+"Svelte: Event forwarding with dispatcher vs passing in handling function, which is best practice?",7,3,4000,4,1588480290,https://stackoverflow.com/questions/61569655/svelte-event-forwarding-with-dispatcher-vs-passing-in-handling-function-which
+Sveltekit proxy api to avoid cors,6,1,6000,15,1640349398,https://stackoverflow.com/questions/70472978/sveltekit-proxy-api-to-avoid-cors
+Is it possible to dynamically load a Svelte template at runtime?,5,1,4000,2,1526072357,https://stackoverflow.com/questions/50300176/is-it-possible-to-dynamically-load-a-svelte-template-at-runtime
+How to type cast Svelte 3 reactive syntax variables?,4,2,2000,3,1622628815,https://stackoverflow.com/questions/67803116/how-to-type-cast-svelte-3-reactive-syntax-variables
+How to strongly type the response of SvelteKit endpoint in the component?,4,1,1000,4,1655350943,https://stackoverflow.com/questions/72640214/how-to-strongly-type-the-response-of-sveltekit-endpoint-in-the-component
+Rendering Svelte components from HTML string,4,2,5000,3,1563357064,https://stackoverflow.com/questions/57073094/rendering-svelte-components-from-html-string
+Svelte: How to pass action to component?,3,2,2000,2,1612976995,https://stackoverflow.com/questions/66141626/svelte-how-to-pass-action-to-component
+How to Enable CORS on a Sveltekit Standalone Endpoint?,3,2,2000,12,1659481138,https://stackoverflow.com/questions/73214622/how-to-enable-cors-on-a-sveltekit-standalone-endpoint
+How to use Tailwind background-image in SvelteKit,3,1,1000,2,1641334419,https://stackoverflow.com/questions/70585661/how-to-use-tailwind-background-image-in-sveltekit
+Do dynamic props exist in Svelte 3,2,1,2000,1,1569494936,https://stackoverflow.com/questions/58115156/do-dynamic-props-exist-in-svelte-3
+on:click doesn't work when the DOM is updated in Svelte,2,1,52,0,1661328031,https://stackoverflow.com/questions/73469495/onclick-doesnt-work-when-the-dom-is-updated-in-svelte
+writing to svelte writable store value from cypress,1,2,295,1,1658310470,https://stackoverflow.com/questions/73049398/writing-to-svelte-writable-store-value-from-cypress
+Trying to deploy svelte vite application on digital ocean,0,1,33,2,1672344056,https://stackoverflow.com/questions/74955553/trying-to-deploy-svelte-vite-application-on-digital-ocean
+Svelte app bug: uncompleted todos are not returned,0,2,164,0,1621164349,https://stackoverflow.com/questions/67556106/svelte-app-bug-uncompleted-todos-are-not-returned
+How do I integrate MYSQL with Sveltekit / nodejs,0,2,4000,9,1636694693,https://stackoverflow.com/questions/69938328/how-do-i-integrate-mysql-with-sveltekit-nodejs
+Best way to import SVG icons into a Svelte app,34,7,21000,29,1612554255,https://stackoverflow.com/questions/66069647/best-way-to-import-svg-icons-into-a-svelte-app
+"In svelte, how to `console.log('yes')` when a variable changed?",27,4,15000,11,1562830638,https://stackoverflow.com/questions/56983938/in-svelte-how-to-console-logyes-when-a-variable-changed
+How do you load and use a custom font in Svelte,24,6,24000,21,1578269330,https://stackoverflow.com/questions/59605327/how-do-you-load-and-use-a-custom-font-in-svelte
+How to trigger/force update a Svelte component,24,6,33000,25,1562255066,https://stackoverflow.com/questions/56891190/how-to-trigger-force-update-a-svelte-component
+"config.kit.adapter should be an object with an ""adapt"" method",24,1,4000,6,1619286259,https://stackoverflow.com/questions/67245743/config-kit-adapter-should-be-an-object-with-an-adapt-method
+How to focus on newly added inputs in Svelte?,23,3,11000,8,1564415963,https://stackoverflow.com/questions/57257499/how-to-focus-on-newly-added-inputs-in-svelte
+Svelte custom event on svelte typescript,23,4,6000,7,1601441958,https://stackoverflow.com/questions/64131176/svelte-custom-event-on-svelte-typescript
+How to use Svelte store with tree-like nested object?,21,2,8000,10,1606831650,https://stackoverflow.com/questions/65092054/how-to-use-svelte-store-with-tree-like-nested-object
+Bundle JS and CSS into single file with Vite,19,6,19000,32,1622504171,https://stackoverflow.com/questions/67781170/bundle-js-and-css-into-single-file-with-vite
+SSR explained in SvelteKit,19,2,14000,24,1624633933,https://stackoverflow.com/questions/68133276/ssr-explained-in-sveltekit
+Cannot find module './App.svelte' or its corresponding type declarations,19,4,16000,19,1601814347,https://stackoverflow.com/questions/64194571/cannot-find-module-app-svelte-or-its-corresponding-type-declarations
+How to have a conditional attribute in Svelte 3?,18,1,9000,7,1574671431,https://stackoverflow.com/questions/59027947/how-to-have-a-conditional-attribute-in-svelte-3
+Svelte route gives me 404,17,5,9000,7,1564843400,https://stackoverflow.com/questions/57339349/svelte-route-gives-me-404
+"How to disable Svelte warning ""Unused CSS selector""",17,3,10000,9,1584137059,https://stackoverflow.com/questions/60677782/how-to-disable-svelte-warning-unused-css-selector
+Can I set svelte style css attribute values using variables passed in to a component,17,3,19000,14,1563934879,https://stackoverflow.com/questions/57174373/can-i-set-svelte-style-css-attribute-values-using-variables-passed-in-to-a-compo
+"Using Svelte, how can I escape curly braces in the HTML?",15,1,6000,5,1586291959,https://stackoverflow.com/questions/61089042/using-svelte-how-can-i-escape-curly-braces-in-the-html
+Does Svelte facilitate dynamic CSS styling?,14,5,10000,5,1501065932,https://stackoverflow.com/questions/45324684/does-svelte-facilitate-dynamic-css-styling
+How to access local json file via svelte?,13,2,11000,10,1584729220,https://stackoverflow.com/questions/60779816/how-to-access-local-json-file-via-svelte
+How to compare Prop changes in Svelte 3,13,2,8000,6,1573509492,https://stackoverflow.com/questions/58809240/how-to-compare-prop-changes-in-svelte-3
+How to bind variable declared with Svelte let directive?,12,2,5000,3,1561806538,https://stackoverflow.com/questions/56817063/how-to-bind-variable-declared-with-svelte-let-directive
+How do I access the value of a slot in a Svelte 3 component?,12,2,4000,2,1557712120,https://stackoverflow.com/questions/56104899/how-do-i-access-the-value-of-a-slot-in-a-svelte-3-component
+Should a svelte package be a dependency or a devDependency?,12,2,2000,3,1625040479,https://stackoverflow.com/questions/68190803/should-a-svelte-package-be-a-dependency-or-a-devdependency
+"SvelteKit console error ""window is not defined"" when i import library",12,3,8000,18,1636305071,https://stackoverflow.com/questions/69874742/sveltekit-console-error-window-is-not-defined-when-i-import-library
+Passing on:click event into dynamically created <svelte:component/>,11,1,11000,9,1569475473,https://stackoverflow.com/questions/58110067/passing-onclick-event-into-dynamically-created-sveltecomponent
+export typescript type in svelte file,11,2,4000,4,1601038102,https://stackoverflow.com/questions/64064506/export-typescript-type-in-svelte-file
+"How context=""module"" works in Svelte and Sapper?",11,3,7000,7,1591233990,https://stackoverflow.com/questions/62185374/how-context-module-works-in-svelte-and-sapper
+How to call destroy on a component from inside the component?,11,1,8000,8,1590991922,https://stackoverflow.com/questions/62126621/how-to-call-destroy-on-a-component-from-inside-the-component
+Svelte conditional element class reported as a syntax error,10,3,9000,5,1531907795,https://stackoverflow.com/questions/51399018/svelte-conditional-element-class-reported-as-a-syntax-error
+Exclude a page from _layout,10,2,3000,1,1543305172,https://stackoverflow.com/questions/53495018/exclude-a-page-from-layout
+"How can I send secure API requests from SvelteKit app, without showing API keys on the client side?",10,1,5000,8,1621248970,https://stackoverflow.com/questions/67568323/how-can-i-send-secure-api-requests-from-sveltekit-app-without-showing-api-keys
+"Svelte 3, async onMount or a valid alternative?",10,2,8000,8,1590758746,https://stackoverflow.com/questions/62087073/svelte-3-async-onmount-or-a-valid-alternative
+registering socket IO to vite for sveltekit,10,2,2000,3,1620244167,https://stackoverflow.com/questions/67407879/registering-socket-io-to-vite-for-sveltekit
+How can I return the rendered HTML of a Svelte component?,10,1,5000,4,1579834709,https://stackoverflow.com/questions/59889859/how-can-i-return-the-rendered-html-of-a-svelte-component
+Building svelte app as a set of static files,10,3,7000,23,1647609642,https://stackoverflow.com/questions/71527665/building-svelte-app-as-a-set-of-static-files
+Svelte reactivity not triggering when variable changed in a function,9,3,10000,11,1600332760,https://stackoverflow.com/questions/63934543/svelte-reactivity-not-triggering-when-variable-changed-in-a-function
+How does Svelte reactivity work inside functions?,9,4,2000,1,1568711287,https://stackoverflow.com/questions/57970951/how-does-svelte-reactivity-work-inside-functions
+Svelte execute function when any of group of variables changes,9,2,7000,5,1564645139,https://stackoverflow.com/questions/57304022/svelte-execute-function-when-any-of-group-of-variables-changes
+Sapper event for route change,9,2,5000,4,1572862521,https://stackoverflow.com/questions/58691278/sapper-event-for-route-change
+JS Sapper : posting data to server (the right way ?),9,2,4000,2,1553763887,https://stackoverflow.com/questions/55393685/js-sapper-posting-data-to-server-the-right-way
+How can i navigate to different path on click in svelte?,9,1,12000,12,1589883168,https://stackoverflow.com/questions/61888502/how-can-i-navigate-to-different-path-on-click-in-svelte
+Importing local json in main.js in Svelte,8,1,7000,4,1535478360,https://stackoverflow.com/questions/52063652/importing-local-json-in-main-js-in-svelte
+Svelte transitions and animations on page load,8,2,6000,7,1602882239,https://stackoverflow.com/questions/64396362/svelte-transitions-and-animations-on-page-load
+Slot prop within _layout.svelte not passing prop,8,1,2000,1,1578252181,https://stackoverflow.com/questions/59603406/slot-prop-within-layout-svelte-not-passing-prop
+How to access websocket in svelte?,8,2,4000,8,1631451273,https://stackoverflow.com/questions/69151604/how-to-access-websocket-in-svelte
+Understanding Context in Svelte (convert from React Context),8,2,4000,6,1621798769,https://stackoverflow.com/questions/67663671/understanding-context-in-svelte-convert-from-react-context
+Serve static files from root in FastAPI,7,3,4000,5,1608703821,https://stackoverflow.com/questions/65419794/serve-static-files-from-root-in-fastapi
+Run a Svelte app from file:// with no sever,7,1,3000,3,1590196180,https://stackoverflow.com/questions/61966179/run-a-svelte-app-from-file-with-no-sever
+Implement a portal in Svelte,7,2,2000,2,1593888411,https://stackoverflow.com/questions/62733094/implement-a-portal-in-svelte
+How do you create routes with optional parameters in Sapper?,7,2,2000,1,1559349977,https://stackoverflow.com/questions/56403072/how-do-you-create-routes-with-optional-parameters-in-sapper
+Svelte API proxy cors,6,2,12000,10,1573823575,https://stackoverflow.com/questions/58877815/svelte-api-proxy-cors
+how to force rendering in svelte 3?,6,2,5000,4,1571179572,https://stackoverflow.com/questions/58403515/how-to-force-rendering-in-svelte-3
+How to conditional add and remove `use:` property in Svelte 3?,6,4,1000,1,1617117367,https://stackoverflow.com/questions/66873724/how-to-conditional-add-and-remove-use-property-in-svelte-3
+Sapper - protected routes (route guard),6,4,4000,3,1569743973,https://stackoverflow.com/questions/58153372/sapper-protected-routes-route-guard
+Sveltekit: Styling active links with $page.path,6,2,4000,10,1641500387,https://stackoverflow.com/questions/70613169/sveltekit-styling-active-links-with-page-path
+Sveltejs render html attribute conditionally,6,1,2000,1,1502889781,https://stackoverflow.com/questions/45714809/sveltejs-render-html-attribute-conditionally
+Migrate to SvelteKit's New Routing System,6,2,2000,13,1660800397,https://stackoverflow.com/questions/73397838/migrate-to-sveltekits-new-routing-system
+How to pass data from a layout to a page in Sapper?,5,1,3000,2,1585465723,https://stackoverflow.com/questions/60911171/how-to-pass-data-from-a-layout-to-a-page-in-sapper
+Svelte Custom element API,5,1,6000,5,1583334411,https://stackoverflow.com/questions/60529034/svelte-custom-element-api
+"In Svelte JS, how does reactive variable work if some variable is just printed but doesn't participate in giving out a value?",5,2,5000,4,1580694273,https://stackoverflow.com/questions/60032245/in-svelte-js-how-does-reactive-variable-work-if-some-variable-is-just-printed-b
+What's the best way to run some code only client side?,5,3,3000,2,1563135883,https://stackoverflow.com/questions/57030895/whats-the-best-way-to-run-some-code-only-client-side
+How to do something when an attribute changes in svelte,5,1,6000,4,1568731951,https://stackoverflow.com/questions/57976936/how-to-do-something-when-an-attribute-changes-in-svelte
+"""Semicolon or block is expected"" error when using tailwind responsive classes in svelte-kit style tags",5,2,3000,5,1622356687,https://stackoverflow.com/questions/67758422/semicolon-or-block-is-expected-error-when-using-tailwind-responsive-classes-in
+Call component from one SvelteKit App to another SvelteKit App,5,1,618,1,1623434842,https://stackoverflow.com/questions/67941692/call-component-from-one-sveltekit-app-to-another-sveltekit-app
