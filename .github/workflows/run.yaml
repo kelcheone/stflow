@@ -19,25 +19,14 @@ jobs:
         run: go run .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        # commit the changes to the repository
+        # commit the generated files to the repository
       - name: Commit changes
         uses: EndBug/add-and-commit@v7
         with:
           author_name: ${{ github.actor }}
           author_email: ${{ github.actor }}@users.noreply.github.com
-          message: "scraped data"
-          add: "go_data.csv"
-          # pull and merge the changes to the repository
-      # - name: Pull and merge changes
-      #   uses: EndBug/add-and-commit@v7
-      #   with:
-      #     author_name: ${{ github.actor }}
-      #     author_email: ${{ github.actor }}@users.noreply.github.com
-      #     message: "scraped data"
-      #     add: "go_data.csv"
-      #     pull_strategy: "merge"
-
-      #     # push the changes to the repository
+          message: "Update generated files"
+          add: "."
 
       - name: Push changes
         uses: ad-m/github-push-action@master

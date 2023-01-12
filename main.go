@@ -8,7 +8,7 @@ import (
 func main() {
 	// get time it takes to run the program
 	start := time.Now()
-	get_all_pages("svelte")
+	get_all_pages("android")
 	fmt.Printf("Time taken Golang: %v \n", time.Since(start))
 
 }
