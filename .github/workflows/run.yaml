@@ -27,9 +27,20 @@ jobs:
           author_email: ${{ github.actor }}@users.noreply.github.com
           message: "scraped data"
           add: "go_data.csv"
-          # push the changes to the repository new branch
+          # pull and merge the changes to the repository
+      # - name: Pull and merge changes
+      #   uses: EndBug/add-and-commit@v7
+      #   with:
+      #     author_name: ${{ github.actor }}
+      #     author_email: ${{ github.actor }}@users.noreply.github.com
+      #     message: "scraped data"
+      #     add: "go_data.csv"
+      #     pull_strategy: "merge"
+
+      #     # push the changes to the repository
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}-data
+          branch: ${{ github.ref }}
