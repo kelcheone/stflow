@@ -69,7 +69,22 @@ func ParsePage(url string) []dElement {
 
 		date := convertDateToUnix(s.Find(".relativetime").AttrOr("title", "2006-01-02 15:04:05Z"))
 		now := time.Now().Unix()
-		views_per_day := strconv.Itoa(convertToInt(views) / int((now-date)/86400))
+
+		diff := int((now - date) / 86400)
+		if diff == 0 {
+			println(url)
+			diff = 1
+		}
+
+		if views == "0" {
+			println("views = 0")
+			println(url)
+			views = "1"
+
+		}
+
+		views_per_day := strconv.Itoa(convertToInt(views) / diff)
+
 		data = append(data, dElement{
 			Title:         title,
 			Votes:         votes,
