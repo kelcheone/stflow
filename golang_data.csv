@@ -1,0 +1,101 @@
+Title,Votes,Answers,Views,Views_per_day,Date,Link 
+Type converting slices of interfaces,288,9,154000,41,1349470087,https://stackoverflow.com/questions/12753805/type-converting-slices-of-interfaces
+What are the use(s) for struct tags in Go?,567,3,147000,37,1338595827,https://stackoverflow.com/questions/10858787/what-are-the-uses-for-struct-tags-in-go
+Pointers vs. values in parameters and return values,488,5,128000,40,1399555301,https://stackoverflow.com/questions/23542989/pointers-vs-values-in-parameters-and-return-values
+"json.Marshal(struct) returns ""{}""",171,3,48000,15,1413131652,https://stackoverflow.com/questions/26327391/json-marshalstruct-returns
+JSON and dealing with unexported fields,89,2,51000,13,1340220567,https://stackoverflow.com/questions/11126793/json-and-dealing-with-unexported-fields
+No output from goroutine,29,3,5000,1,1425972527,https://stackoverflow.com/questions/28958192/no-output-from-goroutine
+"Hiding nil values, understanding why Go fails here",61,3,28000,9,1426747332,https://stackoverflow.com/questions/29138591/hiding-nil-values-understanding-why-go-fails-here
+"What's the proper way to ""go get"" a private repository?",262,17,248000,84,1418720451,https://stackoverflow.com/questions/27500861/whats-the-proper-way-to-go-get-a-private-repository
+Parsing RFC-3339 / ISO-8601 date-time string in Go,242,8,366000,120,1410774467,https://stackoverflow.com/questions/25845172/parsing-rfc-3339-iso-8601-date-time-string-in-go
+Multiple values in single-value context,131,6,120000,41,1422576616,https://stackoverflow.com/questions/28227095/multiple-values-in-single-value-context
+What's the meaning of interface{}?,168,8,67000,20,1397803163,https://stackoverflow.com/questions/23148812/whats-the-meaning-of-interface
+X does not implement Y (... method has a pointer receiver),363,4,120000,53,1480195472,https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver
+Are slices passed by value?,111,5,75000,32,1476260106,https://stackoverflow.com/questions/39993688/are-slices-passed-by-value
+How do I do a literal *int64 in Go?,181,4,117000,42,1433787698,https://stackoverflow.com/questions/30716354/how-do-i-do-a-literal-int64-in-go
+Change values while iterating,193,4,106000,29,1365671943,https://stackoverflow.com/questions/15945030/change-values-while-iterating
+How to stop a goroutine,143,8,197000,47,1311519903,https://stackoverflow.com/questions/6807590/how-to-stop-a-goroutine
+What does an underscore and interface name after keyword var mean?,105,2,22000,5,1351855501,https://stackoverflow.com/questions/13194272/what-does-an-underscore-and-interface-name-after-keyword-var-mean
+How to parse/deserialize dynamic JSON,47,4,39000,13,1427720952,https://stackoverflow.com/questions/29347092/how-to-parse-deserialize-dynamic-json
+Is this an idiomatic worker thread pool in Go?,19,2,6000,2,1467555602,https://stackoverflow.com/questions/38170852/is-this-an-idiomatic-worker-thread-pool-in-go
+How to use global var across files in a package?,50,3,66000,25,1449729800,https://stackoverflow.com/questions/34195360/how-to-use-global-var-across-files-in-a-package
+Format a Go string without printing?,525,8,338000,87,1340209294,https://stackoverflow.com/questions/11123865/format-a-go-string-without-printing
+Value receiver vs. pointer receiver,216,3,58000,19,1420444451,https://stackoverflow.com/questions/27775376/value-receiver-vs-pointer-receiver
+How to pipe several commands in Go?,97,8,67000,17,1338193560,https://stackoverflow.com/questions/10781516/how-to-pipe-several-commands-in-go
+cancel a blocking operation in Go,5,2,4000,1,1422634688,https://stackoverflow.com/questions/28240133/cancel-a-blocking-operation-in-go
+How to use C++ in Go,208,12,148000,30,1257917113,https://stackoverflow.com/questions/1713214/how-to-use-c-in-go
+slice of struct != slice of interface it implements?,85,6,45000,12,1350789970,https://stackoverflow.com/questions/12994679/slice-of-struct-slice-of-interface-it-implements
+"How to use a module that is outside of ""GOPATH"" in another module?",40,2,30000,18,1536917288,https://stackoverflow.com/questions/52328952/how-to-use-a-module-that-is-outside-of-gopath-in-another-module
+Creating a Constant Type and Restricting the Type's Values,38,2,29000,11,1463988598,https://stackoverflow.com/questions/37385007/creating-a-constant-type-and-restricting-the-types-values
+Call functions with special prefix/suffix,18,2,4000,1,1463986817,https://stackoverflow.com/questions/37384473/call-functions-with-special-prefix-suffix
+Explain Type Assertions in Go,53,3,23000,9,1470591687,https://stackoverflow.com/questions/38816843/explain-type-assertions-in-go
+How to initialize a nested struct?,191,9,213000,68,1405615702,https://stackoverflow.com/questions/24809235/how-to-initialize-a-nested-struct
+What does go build build? (go build vs. go install),157,2,109000,39,1433313562,https://stackoverflow.com/questions/30612611/what-does-go-build-build-go-build-vs-go-install
+How can I access a struct field with generics (type T has no field or method)?,9,1,4000,10,1639539844,https://stackoverflow.com/questions/70358216/how-can-i-access-a-struct-field-with-generics-type-t-has-no-field-or-method
+Decoding generic JSON objects to one of many formats,5,1,7000,2,1421700776,https://stackoverflow.com/questions/28033277/decoding-generic-json-objects-to-one-of-many-formats
+What's the best way to bundle static resources in a Go program?,133,5,53000,14,1355683952,https://stackoverflow.com/questions/13904441/whats-the-best-way-to-bundle-static-resources-in-a-go-program
+Cannot convert []string to []interface {},114,7,65000,17,1350749965,https://stackoverflow.com/questions/12990338/cannot-convert-string-to-interface
+"Unmarshal JSON with some known, and some unknown field names",105,8,85000,32,1446210366,https://stackoverflow.com/questions/33436730/unmarshal-json-with-some-known-and-some-unknown-field-names
+Return map like 'ok' in Golang on normal functions,35,2,16000,5,1423772506,https://stackoverflow.com/questions/28487036/return-map-like-ok-in-golang-on-normal-functions
+Golang Round to Nearest 0.05,35,1,38000,16,1474100394,https://stackoverflow.com/questions/39544571/golang-round-to-nearest-0-05
+How to iterate maps in insertion order?,23,2,19000,6,1425840297,https://stackoverflow.com/questions/28930416/how-to-iterate-maps-in-insertion-order
+how to reference a relative file from code and tests,19,3,7000,2,1435260115,https://stackoverflow.com/questions/31059023/how-to-reference-a-relative-file-from-code-and-tests
+Is it safe to read a function pointer concurrently without a lock?,12,3,4000,1,1483170572,https://stackoverflow.com/questions/41406501/is-it-safe-to-read-a-function-pointer-concurrently-without-a-lock
+"It takes too much time when using ""template"" package to generate a dynamic web page to client in Golang",8,1,3000,1,1423649702,https://stackoverflow.com/questions/28451675/it-takes-too-much-time-when-using-template-package-to-generate-a-dynamic-web-p
+What is an idiomatic way of representing enums in Go?,728,14,490000,134,1358698042,https://stackoverflow.com/questions/14426366/what-is-an-idiomatic-way-of-representing-enums-in-go
+Reading a file line by line in Go,513,13,508000,126,1325850624,https://stackoverflow.com/questions/8757389/reading-a-file-line-by-line-in-go
+"How to avoid annoying error ""declared and not used""",412,9,180000,55,1392257388,https://stackoverflow.com/questions/21743841/how-to-avoid-annoying-error-declared-and-not-used
+How to dump goroutine stacktraces?,130,10,127000,37,1380543468,https://stackoverflow.com/questions/19094099/how-to-dump-goroutine-stacktraces
+is there a way to create an instance of a struct from a string?,69,3,41000,12,1397308638,https://stackoverflow.com/questions/23030884/is-there-a-way-to-create-an-instance-of-a-struct-from-a-string
+json.Unmarshal returning blank structure,26,1,18000,6,1422585774,https://stackoverflow.com/questions/28228393/json-unmarshal-returning-blank-structure
+What should be the values of GOPATH and GOROOT?,428,25,537000,131,1320168772,https://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot
+Type converting slices of interfaces,288,9,154000,41,1349470087,https://stackoverflow.com/questions/12753805/type-converting-slices-of-interfaces
+What are the use(s) for struct tags in Go?,567,3,147000,37,1338595827,https://stackoverflow.com/questions/10858787/what-are-the-uses-for-struct-tags-in-go
+Pointers vs. values in parameters and return values,488,5,128000,40,1399555301,https://stackoverflow.com/questions/23542989/pointers-vs-values-in-parameters-and-return-values
+"json.Marshal(struct) returns ""{}""",171,3,48000,15,1413131652,https://stackoverflow.com/questions/26327391/json-marshalstruct-returns
+JSON and dealing with unexported fields,89,2,51000,13,1340220567,https://stackoverflow.com/questions/11126793/json-and-dealing-with-unexported-fields
+No output from goroutine,29,3,5000,1,1425972527,https://stackoverflow.com/questions/28958192/no-output-from-goroutine
+"Hiding nil values, understanding why Go fails here",61,3,28000,9,1426747332,https://stackoverflow.com/questions/29138591/hiding-nil-values-understanding-why-go-fails-here
+"What's the proper way to ""go get"" a private repository?",262,17,248000,84,1418720451,https://stackoverflow.com/questions/27500861/whats-the-proper-way-to-go-get-a-private-repository
+Parsing RFC-3339 / ISO-8601 date-time string in Go,242,8,366000,120,1410774467,https://stackoverflow.com/questions/25845172/parsing-rfc-3339-iso-8601-date-time-string-in-go
+Multiple values in single-value context,131,6,120000,41,1422576616,https://stackoverflow.com/questions/28227095/multiple-values-in-single-value-context
+What's the meaning of interface{}?,168,8,67000,20,1397803163,https://stackoverflow.com/questions/23148812/whats-the-meaning-of-interface
+X does not implement Y (... method has a pointer receiver),363,4,120000,53,1480195472,https://stackoverflow.com/questions/40823315/x-does-not-implement-y-method-has-a-pointer-receiver
+Are slices passed by value?,111,5,75000,32,1476260106,https://stackoverflow.com/questions/39993688/are-slices-passed-by-value
+How do I do a literal *int64 in Go?,181,4,117000,42,1433787698,https://stackoverflow.com/questions/30716354/how-do-i-do-a-literal-int64-in-go
+Change values while iterating,193,4,106000,29,1365671943,https://stackoverflow.com/questions/15945030/change-values-while-iterating
+How to stop a goroutine,143,8,197000,47,1311519903,https://stackoverflow.com/questions/6807590/how-to-stop-a-goroutine
+What does an underscore and interface name after keyword var mean?,105,2,22000,5,1351855501,https://stackoverflow.com/questions/13194272/what-does-an-underscore-and-interface-name-after-keyword-var-mean
+How to parse/deserialize dynamic JSON,47,4,39000,13,1427720952,https://stackoverflow.com/questions/29347092/how-to-parse-deserialize-dynamic-json
+Is this an idiomatic worker thread pool in Go?,19,2,6000,2,1467555602,https://stackoverflow.com/questions/38170852/is-this-an-idiomatic-worker-thread-pool-in-go
+How to use global var across files in a package?,50,3,66000,25,1449729800,https://stackoverflow.com/questions/34195360/how-to-use-global-var-across-files-in-a-package
+Format a Go string without printing?,525,8,338000,87,1340209294,https://stackoverflow.com/questions/11123865/format-a-go-string-without-printing
+Value receiver vs. pointer receiver,216,3,58000,19,1420444451,https://stackoverflow.com/questions/27775376/value-receiver-vs-pointer-receiver
+How to pipe several commands in Go?,97,8,67000,17,1338193560,https://stackoverflow.com/questions/10781516/how-to-pipe-several-commands-in-go
+cancel a blocking operation in Go,5,2,4000,1,1422634688,https://stackoverflow.com/questions/28240133/cancel-a-blocking-operation-in-go
+How to use C++ in Go,208,12,148000,30,1257917113,https://stackoverflow.com/questions/1713214/how-to-use-c-in-go
+slice of struct != slice of interface it implements?,85,6,45000,12,1350789970,https://stackoverflow.com/questions/12994679/slice-of-struct-slice-of-interface-it-implements
+"How to use a module that is outside of ""GOPATH"" in another module?",40,2,30000,18,1536917288,https://stackoverflow.com/questions/52328952/how-to-use-a-module-that-is-outside-of-gopath-in-another-module
+Creating a Constant Type and Restricting the Type's Values,38,2,29000,11,1463988598,https://stackoverflow.com/questions/37385007/creating-a-constant-type-and-restricting-the-types-values
+Call functions with special prefix/suffix,18,2,4000,1,1463986817,https://stackoverflow.com/questions/37384473/call-functions-with-special-prefix-suffix
+Explain Type Assertions in Go,53,3,23000,9,1470591687,https://stackoverflow.com/questions/38816843/explain-type-assertions-in-go
+How to initialize a nested struct?,191,9,213000,68,1405615702,https://stackoverflow.com/questions/24809235/how-to-initialize-a-nested-struct
+What does go build build? (go build vs. go install),157,2,109000,39,1433313562,https://stackoverflow.com/questions/30612611/what-does-go-build-build-go-build-vs-go-install
+How can I access a struct field with generics (type T has no field or method)?,9,1,4000,10,1639539844,https://stackoverflow.com/questions/70358216/how-can-i-access-a-struct-field-with-generics-type-t-has-no-field-or-method
+Decoding generic JSON objects to one of many formats,5,1,7000,2,1421700776,https://stackoverflow.com/questions/28033277/decoding-generic-json-objects-to-one-of-many-formats
+What's the best way to bundle static resources in a Go program?,133,5,53000,14,1355683952,https://stackoverflow.com/questions/13904441/whats-the-best-way-to-bundle-static-resources-in-a-go-program
+Cannot convert []string to []interface {},114,7,65000,17,1350749965,https://stackoverflow.com/questions/12990338/cannot-convert-string-to-interface
+"Unmarshal JSON with some known, and some unknown field names",105,8,85000,32,1446210366,https://stackoverflow.com/questions/33436730/unmarshal-json-with-some-known-and-some-unknown-field-names
+Return map like 'ok' in Golang on normal functions,35,2,16000,5,1423772506,https://stackoverflow.com/questions/28487036/return-map-like-ok-in-golang-on-normal-functions
+Golang Round to Nearest 0.05,35,1,38000,16,1474100394,https://stackoverflow.com/questions/39544571/golang-round-to-nearest-0-05
+How to iterate maps in insertion order?,23,2,19000,6,1425840297,https://stackoverflow.com/questions/28930416/how-to-iterate-maps-in-insertion-order
+how to reference a relative file from code and tests,19,3,7000,2,1435260115,https://stackoverflow.com/questions/31059023/how-to-reference-a-relative-file-from-code-and-tests
+Is it safe to read a function pointer concurrently without a lock?,12,3,4000,1,1483170572,https://stackoverflow.com/questions/41406501/is-it-safe-to-read-a-function-pointer-concurrently-without-a-lock
+"It takes too much time when using ""template"" package to generate a dynamic web page to client in Golang",8,1,3000,1,1423649702,https://stackoverflow.com/questions/28451675/it-takes-too-much-time-when-using-template-package-to-generate-a-dynamic-web-p
+What is an idiomatic way of representing enums in Go?,728,14,490000,134,1358698042,https://stackoverflow.com/questions/14426366/what-is-an-idiomatic-way-of-representing-enums-in-go
+Reading a file line by line in Go,513,13,508000,126,1325850624,https://stackoverflow.com/questions/8757389/reading-a-file-line-by-line-in-go
+"How to avoid annoying error ""declared and not used""",412,9,180000,55,1392257388,https://stackoverflow.com/questions/21743841/how-to-avoid-annoying-error-declared-and-not-used
+How to dump goroutine stacktraces?,130,10,127000,37,1380543468,https://stackoverflow.com/questions/19094099/how-to-dump-goroutine-stacktraces
+is there a way to create an instance of a struct from a string?,69,3,41000,12,1397308638,https://stackoverflow.com/questions/23030884/is-there-a-way-to-create-an-instance-of-a-struct-from-a-string
+json.Unmarshal returning blank structure,26,1,18000,6,1422585774,https://stackoverflow.com/questions/28228393/json-unmarshal-returning-blank-structure
+What should be the values of GOPATH and GOROOT?,428,25,537000,131,1320168772,https://stackoverflow.com/questions/7970390/what-should-be-the-values-of-gopath-and-goroot
